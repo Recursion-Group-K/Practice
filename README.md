@@ -1,5 +1,2 @@
 # Practice
-
 ## guig
-
-## guig2
